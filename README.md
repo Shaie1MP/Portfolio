@@ -14,7 +14,7 @@
 
 ### 💼 Proyectos Destacados  
 - **[Boardbyte](#)**: Una tienda de juegos de mesa creada con PHP. Este ha sido mi proyecto favorito, ya que combinó diseño y funcionalidad en un sector que me apasiona.
-- **[Stars APP]**: Una web que te permite valorar mediante estrellas, los productos de la página. En este proyecto he utilizado PHP y JS.
+- **[Stars APP](#)**: Una web que te permite valorar mediante estrellas, los productos de la página. En este proyecto he utilizado PHP y JS.
 
 ---
 
